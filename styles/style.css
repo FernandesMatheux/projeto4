@@ -194,7 +194,11 @@ ol {
         width: 70%;
     }
 
-  .rodape {
-        margin-top: 20px;
-        
+   .botoes {
+        margin-bottom: 30px;
     }
+
+    .textofinalpag {
+        margin-bottom: 30px;
+    }
+
