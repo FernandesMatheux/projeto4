@@ -185,6 +185,14 @@ ol {
     .principal {
     flex-direction: column-reverse;
     padding: 0% 8%;
+
+    .principal__texto{
+      width:auto;  
+    }
+
+    .img {
+        width: auto;
+    }
     
     }  
 
