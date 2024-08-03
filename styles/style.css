@@ -187,11 +187,11 @@ ol {
     padding: 0% 8%;
 
     .principal__texto{
-      width: 80%;  
+      width:auto;  
     }
 
     .img {
-        width: auto;
+        width: 70%;
     }
 
     .botoes {
